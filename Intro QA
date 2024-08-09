@@ -1,0 +1,35 @@
+1) what is IDE?
+a) IDE stands for Integrated Development Environment - A software - provides functionalities like writing code, debugging, testing...etc.
+   Examples for IDE are PyCharm, VScode, IDLE, Spyder, Jupyter.
+
+2) Can't we simply use code editor instead of IDE? whats the difference?
+a) IDE provides vast packages and libraries and many more functionalities like code readability, auto completion of the code. IDE is best for complex codes.
+   Whereas code editor is easy for understanding the small programs.
+
+3) Command to check which version of python you are using?
+a) In windows: open windows powershell -> type "--version"
+   In Mac: open macos terminal -> type "-V"
+   In Linux: open linux terminal -> type "python --version"
+
+4) Do you know "The power of 10" for million, trilion...etc?
+a) 10^0 = one 
+   10^1 = ten
+   10^2 = hundred
+   10^3 = thousand
+   10^4 = ten thousand
+   10^5 = lakhs
+   10^6 = one million = ten lakhs
+   10^7 = crore = ten million
+   10^8 = hundred million
+   10^9 = billion
+   10^12 = trillion
+   10^15 = quadrillion
+
+5) Python files are saved using what extension?
+a) "file_name.py"
+
+6) Is Python a compiled language or an interpreted language?
+a) Python is partial compiled and partial interpreted language! Python program is first compiled and then interpreted. Compilation is hidden from the programmers and thus many
+   will say like python is interpreted language!
+
+7) 
